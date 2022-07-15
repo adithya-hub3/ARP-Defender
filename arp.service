@@ -1,0 +1,11 @@
+[Unit]
+Description=ARP
+
+[Service]
+Type=simple
+WorkingDirectory=/opt/APP_arp
+ExecStart=/opt/APP_arp/arp_demo.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
