@@ -1,0 +1,7 @@
+[Desktop Entry]
+
+Type=Application
+Name=ARP-Defender
+Exec=bash /opt/APP_arp/run.sh
+Icon=/opt/APP_arp/icon.png
+Terminal= true
