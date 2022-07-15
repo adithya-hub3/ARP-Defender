@@ -31,9 +31,6 @@ echo " "
 if [ "$num" == 1 ]; then
     sleep 2
     echo "-> Starting ARP Defender......."
-    systemctl daemon-reload
-    systemctl enable arp.service
-    systemctl start arp.service
 	
     sleep 2
     echo "-> Successfully Started :) :)"
