@@ -37,7 +37,7 @@ if [ "$num" == 1 ]; then
     sleep 2
     echo "-> Scanning the network for attacks......"
     while :; do
-	if [ -d /opt/APP_arp/arp_warnings ] | [ -d /opt/APP_arp/Logging ];
+	if [ -d /opt/APP_arp/arp_warnings ] ;
 	then
 		sleep 1
 		echo ""
