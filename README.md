@@ -1,7 +1,7 @@
 # ARP-Defender
 An Application for Guarding against ARP Poisoning Attacks.
 
-This Application works on all Debian linux platforms.
+This Application works on all Debian linux Distributions.
 
 --> After Installing goto /opt/APP_arp directory and then copy the file named "ARP-Defender.desktop" and Paste it on your Desktop.
 
