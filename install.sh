@@ -25,6 +25,10 @@ else
 	echo "This script needs root Permission .. run it as sudo user please .."
 fi
 echo "Hello User!"
+echo ""
+echo "Goto '/opt/APP_arp Directory' and copy file named 'ARP Defender.desktop' and paste it on your Desktop"
+echo "This will create an app with Shield icon and you can start app by just clicking on that icon "
+echo ":) :) :)"
 exit 0
 
 
